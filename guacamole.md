@@ -4,5 +4,5 @@
 *  lemon
 * salt
 ## Instcrutions
-
+* smash the avocado
 
